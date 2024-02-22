@@ -1,3 +1,8 @@
+# Team L5 - Spring 2024 Hackathon (KSU + LexisNexis)
+- Amrutvyasa Ramasamy
+- Shreya Katare
+- Sarah Baban
+
 # Help Missing Kids! 
 Welcome to the 2024 HPCC Systems and ECL Code Challenge, titled "Help Missing Kids"!
 
